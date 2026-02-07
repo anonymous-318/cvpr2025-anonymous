@@ -1,6 +1,6 @@
-## Adaptive Fusion with Masked Encoding for Cross-Domain Industrial Anomaly Detection
+## Cross-Domain Industrial Anomaly Detection via Masked Encoding and Adaptive Feature Fusion
 
-This is the official PyTorch implementation of the paper [Adaptive Fusion with Masked Encoding for Cross-Domain Industrial Anomaly Detection].
+This is the official PyTorch implementation of the paper [Cross-Domain Industrial Anomaly Detection via Masked Encoding and Adaptive Feature Fusion].
 <p align="center">
     <img src="./model.jpg" alt="Alt text" width="500" height="350">
 </p>
